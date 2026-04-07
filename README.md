@@ -1,16 +1,22 @@
-## Hi there 👋
+#  Hi there, I'm Barriella!
 
-<!--
-**barriellawertheimer/barriellawertheimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
+-  I'm passionate about building cool projects
+-  Currently learning: Rust, ITIL 4 Foundations, CompTIA Net + and Security +
+-  How to reach me: hello@barriella.com
 
-Here are some ideas to get you started:
+##  Tech Stack
+- **Languages:** Python, JavaScript, SQL
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, VS Code
+- **Platforms:** Linux, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Featured Projects
+| Project | Description | Tech Used |
+| Music Organizer | Organize your music into subfolders base om the file tags | Python |
+
+##  Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=barriellawertheimer&show_icons=true&theme=radical)
+
+---
+*Last updated: April 2026*

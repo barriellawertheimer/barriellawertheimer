@@ -13,7 +13,7 @@
 
 ##  Featured Projects
 | Project | Description | Tech Used |
-| Music Organizer | Organize your music into subfolders base om the file tags | Python |
+| Music Organizer | Organize your music into subfolders base om the file tags | Python | Link:  https://github.com/barriellawertheimer/organize-music |
 
 ##  Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=barriellawertheimer&show_icons=true&theme=radical)

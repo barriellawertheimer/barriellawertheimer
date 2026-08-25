@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# Visit https://github.com/barriellaw
+
 <!--
 **barriellawertheimer/barriellawertheimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
